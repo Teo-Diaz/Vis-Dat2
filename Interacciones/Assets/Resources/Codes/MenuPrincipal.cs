@@ -4,53 +4,53 @@ using UnityEngine;
 public class MenuPrincipal : MonoBehaviour
 {
     [Header("Paneles del menu")]
-    public GameObject panelMapa;
-    public GameObject panelContexto;
-    public GameObject panelNucleo;
-    public GameObject panelGlosario;
-    public GameObject panelCreditos;
+    public GameObject Toggle1;
+    public GameObject Toggle2;
+    public GameObject Toggle3;
+    public GameObject Toggle4;
+    public GameObject Toggle5;
 
     void Start()
     {
-        MostrarMapa();
+        MostrarToggle();
     }
 
-    public void MostrarMapa()
+    public void MostrarToggle()
     {
         OcultarTodos();
-        panelMapa.SetActive(true);
+        Toggle1.SetActive(true);
     }
 
-    public void MostrarContexto()
+    public void MostrarToggle2()
     {
         OcultarTodos();
-        panelContexto.SetActive(true);
+        Toggle2.SetActive(true);
     }
 
-    public void MostrarNucleo()
+    public void MostrarToggle3()
     {
         OcultarTodos();
-        panelNucleo.SetActive(true);
+        Toggle3.SetActive(true);
     }
 
-    public void MostrarGlosario()
+    public void MostrarToggle4()
     {
         OcultarTodos();
-        panelGlosario.SetActive(true);
+        Toggle4.SetActive(true);
     }
 
-    public void MostrarCreditos()
+    public void MostrarToggle5()
     {
         OcultarTodos();
-        panelCreditos.SetActive(true);
+        Toggle5.SetActive(true);
     }
 
     void OcultarTodos()
     {
-        panelMapa.SetActive(false);
-        panelContexto.SetActive(false);
-        panelNucleo.SetActive(false);
-        panelGlosario.SetActive(false);
-        panelCreditos.SetActive(false);
+        Toggle1.SetActive(false);
+        Toggle2.SetActive(false);
+        Toggle3.SetActive(false);
+        Toggle4.SetActive(false);
+        Toggle5.SetActive(false);
     }
 }
