@@ -1,0 +1,5720 @@
+fileFormatVersion: 2
+guid: 404a23e2f7b84e54880e3074bac7ec73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8335905968680853845
+    second: "Plano t\xE9cnico del N\xFAcleo AION_0"
+  - first:
+      213: 4787575937462271496
+    second: "Plano t\xE9cnico del N\xFAcleo AION_1"
+  - first:
+      213: 5748541082690110992
+    second: "Plano t\xE9cnico del N\xFAcleo AION_2"
+  - first:
+      213: 8120826642024220141
+    second: "Plano t\xE9cnico del N\xFAcleo AION_3"
+  - first:
+      213: -8173757796353097218
+    second: "Plano t\xE9cnico del N\xFAcleo AION_4"
+  - first:
+      213: 3697966530668786573
+    second: "Plano t\xE9cnico del N\xFAcleo AION_5"
+  - first:
+      213: -8616999416720169391
+    second: "Plano t\xE9cnico del N\xFAcleo AION_6"
+  - first:
+      213: -403252813204276896
+    second: "Plano t\xE9cnico del N\xFAcleo AION_7"
+  - first:
+      213: 4729255565814272326
+    second: "Plano t\xE9cnico del N\xFAcleo AION_8"
+  - first:
+      213: 1406528846989653339
+    second: "Plano t\xE9cnico del N\xFAcleo AION_9"
+  - first:
+      213: 5486903922565910040
+    second: "Plano t\xE9cnico del N\xFAcleo AION_10"
+  - first:
+      213: -3354074319132491863
+    second: "Plano t\xE9cnico del N\xFAcleo AION_11"
+  - first:
+      213: -7366254438510276108
+    second: "Plano t\xE9cnico del N\xFAcleo AION_12"
+  - first:
+      213: 4617674040464137083
+    second: "Plano t\xE9cnico del N\xFAcleo AION_13"
+  - first:
+      213: -3950504640508361548
+    second: "Plano t\xE9cnico del N\xFAcleo AION_14"
+  - first:
+      213: -1802936196852591461
+    second: "Plano t\xE9cnico del N\xFAcleo AION_15"
+  - first:
+      213: -7499509284843894214
+    second: "Plano t\xE9cnico del N\xFAcleo AION_16"
+  - first:
+      213: -3763588094390662768
+    second: "Plano t\xE9cnico del N\xFAcleo AION_17"
+  - first:
+      213: 122944921010147033
+    second: "Plano t\xE9cnico del N\xFAcleo AION_18"
+  - first:
+      213: 5351814314482498244
+    second: "Plano t\xE9cnico del N\xFAcleo AION_19"
+  - first:
+      213: -5899912130779638765
+    second: "Plano t\xE9cnico del N\xFAcleo AION_20"
+  - first:
+      213: -5424356561312570730
+    second: "Plano t\xE9cnico del N\xFAcleo AION_21"
+  - first:
+      213: 3946543882831377941
+    second: "Plano t\xE9cnico del N\xFAcleo AION_22"
+  - first:
+      213: 3227918615493482282
+    second: "Plano t\xE9cnico del N\xFAcleo AION_23"
+  - first:
+      213: -1449920667262619092
+    second: "Plano t\xE9cnico del N\xFAcleo AION_24"
+  - first:
+      213: 3764651857643183501
+    second: "Plano t\xE9cnico del N\xFAcleo AION_25"
+  - first:
+      213: 5428246816268413161
+    second: "Plano t\xE9cnico del N\xFAcleo AION_26"
+  - first:
+      213: 9204519025916348668
+    second: "Plano t\xE9cnico del N\xFAcleo AION_27"
+  - first:
+      213: -4560847819898576492
+    second: "Plano t\xE9cnico del N\xFAcleo AION_28"
+  - first:
+      213: -7439286823784312618
+    second: "Plano t\xE9cnico del N\xFAcleo AION_29"
+  - first:
+      213: -369173930322456775
+    second: "Plano t\xE9cnico del N\xFAcleo AION_30"
+  - first:
+      213: 5710301531557197380
+    second: "Plano t\xE9cnico del N\xFAcleo AION_31"
+  - first:
+      213: -3580663277034515162
+    second: "Plano t\xE9cnico del N\xFAcleo AION_32"
+  - first:
+      213: -4779258216265753142
+    second: "Plano t\xE9cnico del N\xFAcleo AION_33"
+  - first:
+      213: 5612655191769803827
+    second: "Plano t\xE9cnico del N\xFAcleo AION_34"
+  - first:
+      213: -8381957669185929223
+    second: "Plano t\xE9cnico del N\xFAcleo AION_35"
+  - first:
+      213: 809359291072954021
+    second: "Plano t\xE9cnico del N\xFAcleo AION_36"
+  - first:
+      213: 5031439863025510725
+    second: "Plano t\xE9cnico del N\xFAcleo AION_37"
+  - first:
+      213: 8606301254885839995
+    second: "Plano t\xE9cnico del N\xFAcleo AION_38"
+  - first:
+      213: -4965733135168811047
+    second: "Plano t\xE9cnico del N\xFAcleo AION_39"
+  - first:
+      213: -2400319286649920786
+    second: "Plano t\xE9cnico del N\xFAcleo AION_40"
+  - first:
+      213: -1134100186322153678
+    second: "Plano t\xE9cnico del N\xFAcleo AION_41"
+  - first:
+      213: -8443108982615313639
+    second: "Plano t\xE9cnico del N\xFAcleo AION_42"
+  - first:
+      213: 8044882901437214940
+    second: "Plano t\xE9cnico del N\xFAcleo AION_43"
+  - first:
+      213: 1076075322499275658
+    second: "Plano t\xE9cnico del N\xFAcleo AION_44"
+  - first:
+      213: 8090267748853017044
+    second: "Plano t\xE9cnico del N\xFAcleo AION_45"
+  - first:
+      213: 871166034400083058
+    second: "Plano t\xE9cnico del N\xFAcleo AION_46"
+  - first:
+      213: 931420114567589887
+    second: "Plano t\xE9cnico del N\xFAcleo AION_47"
+  - first:
+      213: 387205163374752940
+    second: "Plano t\xE9cnico del N\xFAcleo AION_48"
+  - first:
+      213: -4748568056187086682
+    second: "Plano t\xE9cnico del N\xFAcleo AION_49"
+  - first:
+      213: 446499391183064595
+    second: "Plano t\xE9cnico del N\xFAcleo AION_50"
+  - first:
+      213: -53731307549789816
+    second: "Plano t\xE9cnico del N\xFAcleo AION_51"
+  - first:
+      213: 2732261115300796346
+    second: "Plano t\xE9cnico del N\xFAcleo AION_52"
+  - first:
+      213: 8528235038262128429
+    second: "Plano t\xE9cnico del N\xFAcleo AION_53"
+  - first:
+      213: -933193785717201563
+    second: "Plano t\xE9cnico del N\xFAcleo AION_54"
+  - first:
+      213: -1872251845406833257
+    second: "Plano t\xE9cnico del N\xFAcleo AION_55"
+  - first:
+      213: 5029966386827396846
+    second: "Plano t\xE9cnico del N\xFAcleo AION_56"
+  - first:
+      213: 5481764002686287909
+    second: "Plano t\xE9cnico del N\xFAcleo AION_57"
+  - first:
+      213: -9037295754398397712
+    second: "Plano t\xE9cnico del N\xFAcleo AION_58"
+  - first:
+      213: 1588432824623609878
+    second: "Plano t\xE9cnico del N\xFAcleo AION_59"
+  - first:
+      213: -3406769138553895826
+    second: "Plano t\xE9cnico del N\xFAcleo AION_60"
+  - first:
+      213: -4365217042586250227
+    second: "Plano t\xE9cnico del N\xFAcleo AION_61"
+  - first:
+      213: 8024195132867425287
+    second: "Plano t\xE9cnico del N\xFAcleo AION_62"
+  - first:
+      213: -1775826720041826713
+    second: "Plano t\xE9cnico del N\xFAcleo AION_63"
+  - first:
+      213: -957111259585650256
+    second: "Plano t\xE9cnico del N\xFAcleo AION_64"
+  - first:
+      213: -8596116910879887778
+    second: "Plano t\xE9cnico del N\xFAcleo AION_65"
+  - first:
+      213: 2813806964971712291
+    second: "Plano t\xE9cnico del N\xFAcleo AION_66"
+  - first:
+      213: 1449139371058823410
+    second: "Plano t\xE9cnico del N\xFAcleo AION_67"
+  - first:
+      213: -3338514554756548376
+    second: "Plano t\xE9cnico del N\xFAcleo AION_68"
+  - first:
+      213: 4185495203783864662
+    second: "Plano t\xE9cnico del N\xFAcleo AION_69"
+  - first:
+      213: -7771375377460746863
+    second: "Plano t\xE9cnico del N\xFAcleo AION_70"
+  - first:
+      213: -8913821039697074557
+    second: "Plano t\xE9cnico del N\xFAcleo AION_71"
+  - first:
+      213: -1442188855055105660
+    second: "Plano t\xE9cnico del N\xFAcleo AION_72"
+  - first:
+      213: -6515857596563689009
+    second: "Plano t\xE9cnico del N\xFAcleo AION_73"
+  - first:
+      213: 3633647777953091907
+    second: "Plano t\xE9cnico del N\xFAcleo AION_74"
+  - first:
+      213: -5002175214764740179
+    second: "Plano t\xE9cnico del N\xFAcleo AION_75"
+  - first:
+      213: -1774039760625369110
+    second: "Plano t\xE9cnico del N\xFAcleo AION_76"
+  - first:
+      213: 3443216517247474416
+    second: "Plano t\xE9cnico del N\xFAcleo AION_77"
+  - first:
+      213: 7593303270267332412
+    second: "Plano t\xE9cnico del N\xFAcleo AION_78"
+  - first:
+      213: -4416808956623518973
+    second: "Plano t\xE9cnico del N\xFAcleo AION_79"
+  - first:
+      213: 4368001445051237256
+    second: "Plano t\xE9cnico del N\xFAcleo AION_80"
+  - first:
+      213: 7917009318570289116
+    second: "Plano t\xE9cnico del N\xFAcleo AION_81"
+  - first:
+      213: -5529832315402666076
+    second: "Plano t\xE9cnico del N\xFAcleo AION_82"
+  - first:
+      213: -4969976339178779188
+    second: "Plano t\xE9cnico del N\xFAcleo AION_83"
+  - first:
+      213: 8235172603276127297
+    second: "Plano t\xE9cnico del N\xFAcleo AION_84"
+  - first:
+      213: 378411859488994561
+    second: "Plano t\xE9cnico del N\xFAcleo AION_85"
+  - first:
+      213: 1847538165899443698
+    second: "Plano t\xE9cnico del N\xFAcleo AION_86"
+  - first:
+      213: -3227662518884952347
+    second: "Plano t\xE9cnico del N\xFAcleo AION_87"
+  - first:
+      213: 7086175543228779363
+    second: "Plano t\xE9cnico del N\xFAcleo AION_88"
+  - first:
+      213: -2950815637630009777
+    second: "Plano t\xE9cnico del N\xFAcleo AION_89"
+  - first:
+      213: -7577908201296266477
+    second: "Plano t\xE9cnico del N\xFAcleo AION_90"
+  - first:
+      213: -315042299241222803
+    second: "Plano t\xE9cnico del N\xFAcleo AION_91"
+  - first:
+      213: 4229645366973284202
+    second: "Plano t\xE9cnico del N\xFAcleo AION_92"
+  - first:
+      213: -1107037930502308179
+    second: "Plano t\xE9cnico del N\xFAcleo AION_93"
+  - first:
+      213: 3296837034269837278
+    second: "Plano t\xE9cnico del N\xFAcleo AION_94"
+  - first:
+      213: 297626113537381969
+    second: "Plano t\xE9cnico del N\xFAcleo AION_95"
+  - first:
+      213: 4262473538532631848
+    second: "Plano t\xE9cnico del N\xFAcleo AION_96"
+  - first:
+      213: 821495766891838020
+    second: "Plano t\xE9cnico del N\xFAcleo AION_97"
+  - first:
+      213: 4378004030265050945
+    second: "Plano t\xE9cnico del N\xFAcleo AION_98"
+  - first:
+      213: -4665732975101411780
+    second: "Plano t\xE9cnico del N\xFAcleo AION_99"
+  - first:
+      213: -619108252462211698
+    second: "Plano t\xE9cnico del N\xFAcleo AION_100"
+  - first:
+      213: 7974569472244287413
+    second: "Plano t\xE9cnico del N\xFAcleo AION_101"
+  - first:
+      213: 5912186916587203948
+    second: "Plano t\xE9cnico del N\xFAcleo AION_102"
+  - first:
+      213: 1940903242099790438
+    second: "Plano t\xE9cnico del N\xFAcleo AION_103"
+  - first:
+      213: -4855037603115038625
+    second: "Plano t\xE9cnico del N\xFAcleo AION_104"
+  - first:
+      213: -778567048696098093
+    second: "Plano t\xE9cnico del N\xFAcleo AION_105"
+  - first:
+      213: -6003064117106783328
+    second: "Plano t\xE9cnico del N\xFAcleo AION_106"
+  - first:
+      213: -2734316860068462824
+    second: "Plano t\xE9cnico del N\xFAcleo AION_107"
+  - first:
+      213: 7257550152021436649
+    second: "Plano t\xE9cnico del N\xFAcleo AION_108"
+  - first:
+      213: -4562486280298631697
+    second: "Plano t\xE9cnico del N\xFAcleo AION_109"
+  - first:
+      213: -3925348035287435610
+    second: "Plano t\xE9cnico del N\xFAcleo AION_110"
+  - first:
+      213: 380823417540331489
+    second: "Plano t\xE9cnico del N\xFAcleo AION_111"
+  - first:
+      213: -1035171364022468186
+    second: "Plano t\xE9cnico del N\xFAcleo AION_112"
+  - first:
+      213: -3878835440099210866
+    second: "Plano t\xE9cnico del N\xFAcleo AION_113"
+  - first:
+      213: 6994677311375222561
+    second: "Plano t\xE9cnico del N\xFAcleo AION_114"
+  - first:
+      213: -2790877580584023584
+    second: "Plano t\xE9cnico del N\xFAcleo AION_115"
+  - first:
+      213: 2872690197408724820
+    second: "Plano t\xE9cnico del N\xFAcleo AION_116"
+  - first:
+      213: -7856410216477621519
+    second: "Plano t\xE9cnico del N\xFAcleo AION_117"
+  - first:
+      213: -8564735720976449708
+    second: "Plano t\xE9cnico del N\xFAcleo AION_118"
+  - first:
+      213: -3555824053392567790
+    second: "Plano t\xE9cnico del N\xFAcleo AION_119"
+  - first:
+      213: -2526042693056989521
+    second: "Plano t\xE9cnico del N\xFAcleo AION_120"
+  - first:
+      213: -5531176760100295861
+    second: "Plano t\xE9cnico del N\xFAcleo AION_121"
+  - first:
+      213: -6607783990122811154
+    second: "Plano t\xE9cnico del N\xFAcleo AION_122"
+  - first:
+      213: 8517889273688076858
+    second: "Plano t\xE9cnico del N\xFAcleo AION_123"
+  - first:
+      213: -3373121673382383810
+    second: "Plano t\xE9cnico del N\xFAcleo AION_124"
+  - first:
+      213: -1235770321475243625
+    second: "Plano t\xE9cnico del N\xFAcleo AION_125"
+  - first:
+      213: -5718415705704984347
+    second: "Plano t\xE9cnico del N\xFAcleo AION_126"
+  - first:
+      213: 8511805398087264730
+    second: "Plano t\xE9cnico del N\xFAcleo AION_127"
+  - first:
+      213: 1980347135402835311
+    second: "Plano t\xE9cnico del N\xFAcleo AION_128"
+  - first:
+      213: 9173243305435986787
+    second: "Plano t\xE9cnico del N\xFAcleo AION_129"
+  - first:
+      213: -6025116427533430567
+    second: "Plano t\xE9cnico del N\xFAcleo AION_130"
+  - first:
+      213: -5665005338384280634
+    second: "Plano t\xE9cnico del N\xFAcleo AION_131"
+  - first:
+      213: 5829567784649183133
+    second: "Plano t\xE9cnico del N\xFAcleo AION_132"
+  - first:
+      213: -8534461088884462364
+    second: "Plano t\xE9cnico del N\xFAcleo AION_133"
+  - first:
+      213: 5489528097476943257
+    second: "Plano t\xE9cnico del N\xFAcleo AION_134"
+  - first:
+      213: -5956016566481856967
+    second: "Plano t\xE9cnico del N\xFAcleo AION_135"
+  - first:
+      213: 6750250451039790083
+    second: "Plano t\xE9cnico del N\xFAcleo AION_136"
+  - first:
+      213: 6271441936651404166
+    second: "Plano t\xE9cnico del N\xFAcleo AION_137"
+  - first:
+      213: 2633265960578956830
+    second: "Plano t\xE9cnico del N\xFAcleo AION_138"
+  - first:
+      213: -7491493559553373783
+    second: "Plano t\xE9cnico del N\xFAcleo AION_139"
+  - first:
+      213: -3223420768209594404
+    second: "Plano t\xE9cnico del N\xFAcleo AION_140"
+  - first:
+      213: -734662520551477253
+    second: "Plano t\xE9cnico del N\xFAcleo AION_141"
+  - first:
+      213: 3931827153471315611
+    second: "Plano t\xE9cnico del N\xFAcleo AION_142"
+  - first:
+      213: -8674028182264532166
+    second: "Plano t\xE9cnico del N\xFAcleo AION_143"
+  - first:
+      213: -6940281357688884784
+    second: "Plano t\xE9cnico del N\xFAcleo AION_144"
+  - first:
+      213: 4385979948668144588
+    second: "Plano t\xE9cnico del N\xFAcleo AION_145"
+  - first:
+      213: -7916923733987829917
+    second: "Plano t\xE9cnico del N\xFAcleo AION_146"
+  - first:
+      213: -5008200757263280258
+    second: "Plano t\xE9cnico del N\xFAcleo AION_147"
+  - first:
+      213: 1459005273560829116
+    second: "Plano t\xE9cnico del N\xFAcleo AION_148"
+  - first:
+      213: 4474902834784617795
+    second: "Plano t\xE9cnico del N\xFAcleo AION_149"
+  - first:
+      213: -5882099555381965733
+    second: "Plano t\xE9cnico del N\xFAcleo AION_150"
+  - first:
+      213: -8733590738315976810
+    second: "Plano t\xE9cnico del N\xFAcleo AION_151"
+  - first:
+      213: 6638237973599413955
+    second: "Plano t\xE9cnico del N\xFAcleo AION_152"
+  - first:
+      213: -5992107424763647415
+    second: "Plano t\xE9cnico del N\xFAcleo AION_153"
+  - first:
+      213: 3771524318499523378
+    second: "Plano t\xE9cnico del N\xFAcleo AION_154"
+  - first:
+      213: 7195066809381710180
+    second: "Plano t\xE9cnico del N\xFAcleo AION_155"
+  - first:
+      213: 6377411886223137983
+    second: "Plano t\xE9cnico del N\xFAcleo AION_156"
+  - first:
+      213: 2487748505021976510
+    second: "Plano t\xE9cnico del N\xFAcleo AION_157"
+  - first:
+      213: -6797574075504128128
+    second: "Plano t\xE9cnico del N\xFAcleo AION_158"
+  - first:
+      213: -1428168427925873540
+    second: "Plano t\xE9cnico del N\xFAcleo AION_159"
+  - first:
+      213: 8909869378454626582
+    second: "Plano t\xE9cnico del N\xFAcleo AION_160"
+  - first:
+      213: 291603992991867471
+    second: "Plano t\xE9cnico del N\xFAcleo AION_161"
+  - first:
+      213: -999428583718910445
+    second: "Plano t\xE9cnico del N\xFAcleo AION_162"
+  - first:
+      213: 8803638599454150705
+    second: "Plano t\xE9cnico del N\xFAcleo AION_163"
+  - first:
+      213: -8873379038078292906
+    second: "Plano t\xE9cnico del N\xFAcleo AION_164"
+  - first:
+      213: 9138480649154654164
+    second: "Plano t\xE9cnico del N\xFAcleo AION_165"
+  - first:
+      213: -2991206210067155765
+    second: "Plano t\xE9cnico del N\xFAcleo AION_166"
+  - first:
+      213: -6205440852481127661
+    second: "Plano t\xE9cnico del N\xFAcleo AION_167"
+  - first:
+      213: 6822983882277956704
+    second: "Plano t\xE9cnico del N\xFAcleo AION_168"
+  - first:
+      213: 8903232757857573096
+    second: "Plano t\xE9cnico del N\xFAcleo AION_169"
+  - first:
+      213: -6223783925951775409
+    second: "Plano t\xE9cnico del N\xFAcleo AION_170"
+  - first:
+      213: 5444042321811493136
+    second: "Plano t\xE9cnico del N\xFAcleo AION_171"
+  - first:
+      213: 698227716427114026
+    second: "Plano t\xE9cnico del N\xFAcleo AION_172"
+  - first:
+      213: -5192498840539609829
+    second: "Plano t\xE9cnico del N\xFAcleo AION_173"
+  - first:
+      213: 8760376919569330068
+    second: "Plano t\xE9cnico del N\xFAcleo AION_174"
+  - first:
+      213: -1660553150715396787
+    second: "Plano t\xE9cnico del N\xFAcleo AION_175"
+  - first:
+      213: 7575626234721411044
+    second: "Plano t\xE9cnico del N\xFAcleo AION_176"
+  - first:
+      213: -2842735642021155151
+    second: "Plano t\xE9cnico del N\xFAcleo AION_177"
+  - first:
+      213: 3963849589098763229
+    second: "Plano t\xE9cnico del N\xFAcleo AION_178"
+  - first:
+      213: -8013606251224781150
+    second: "Plano t\xE9cnico del N\xFAcleo AION_179"
+  - first:
+      213: -864904620381482747
+    second: "Plano t\xE9cnico del N\xFAcleo AION_180"
+  - first:
+      213: -6952974422231059689
+    second: "Plano t\xE9cnico del N\xFAcleo AION_181"
+  - first:
+      213: 4325326463075207881
+    second: "Plano t\xE9cnico del N\xFAcleo AION_182"
+  - first:
+      213: 4309527657820784918
+    second: "Plano t\xE9cnico del N\xFAcleo AION_183"
+  - first:
+      213: 5088815381835568225
+    second: "Plano t\xE9cnico del N\xFAcleo AION_184"
+  - first:
+      213: 6029279207233289947
+    second: "Plano t\xE9cnico del N\xFAcleo AION_185"
+  - first:
+      213: 6172102647952835370
+    second: "Plano t\xE9cnico del N\xFAcleo AION_186"
+  - first:
+      213: -5867528372767929424
+    second: "Plano t\xE9cnico del N\xFAcleo AION_187"
+  - first:
+      213: -6315095027940629777
+    second: "Plano t\xE9cnico del N\xFAcleo AION_188"
+  - first:
+      213: -9124246384835211004
+    second: "Plano t\xE9cnico del N\xFAcleo AION_189"
+  - first:
+      213: 2224205411961230442
+    second: "Plano t\xE9cnico del N\xFAcleo AION_190"
+  - first:
+      213: -2398851227834553372
+    second: "Plano t\xE9cnico del N\xFAcleo AION_191"
+  - first:
+      213: 160656685469232394
+    second: "Plano t\xE9cnico del N\xFAcleo AION_192"
+  - first:
+      213: -6271003374514724011
+    second: "Plano t\xE9cnico del N\xFAcleo AION_193"
+  - first:
+      213: -5411742390517904437
+    second: "Plano t\xE9cnico del N\xFAcleo AION_194"
+  - first:
+      213: 7797511524113908980
+    second: "Plano t\xE9cnico del N\xFAcleo AION_195"
+  - first:
+      213: -9216443651691737
+    second: "Plano t\xE9cnico del N\xFAcleo AION_196"
+  - first:
+      213: 1344497365211081488
+    second: "Plano t\xE9cnico del N\xFAcleo AION_197"
+  - first:
+      213: -5157751213998777260
+    second: "Plano t\xE9cnico del N\xFAcleo AION_198"
+  - first:
+      213: -3868750297075473343
+    second: "Plano t\xE9cnico del N\xFAcleo AION_199"
+  - first:
+      213: -9028374900456613851
+    second: "Plano t\xE9cnico del N\xFAcleo AION_200"
+  - first:
+      213: 2769182656849738277
+    second: "Plano t\xE9cnico del N\xFAcleo AION_201"
+  - first:
+      213: -865172789802981090
+    second: "Plano t\xE9cnico del N\xFAcleo AION_202"
+  - first:
+      213: 4743488432349631324
+    second: "Plano t\xE9cnico del N\xFAcleo AION_203"
+  - first:
+      213: 4486185255335409626
+    second: "Plano t\xE9cnico del N\xFAcleo AION_204"
+  - first:
+      213: 3913325908386123672
+    second: "Plano t\xE9cnico del N\xFAcleo AION_205"
+  - first:
+      213: 8280570470565833969
+    second: "Plano t\xE9cnico del N\xFAcleo AION_206"
+  - first:
+      213: 817833734390212302
+    second: "Plano t\xE9cnico del N\xFAcleo AION_207"
+  - first:
+      213: -3084717397360258352
+    second: "Plano t\xE9cnico del N\xFAcleo AION_208"
+  - first:
+      213: -3063356608251931090
+    second: "Plano t\xE9cnico del N\xFAcleo AION_209"
+  - first:
+      213: -1289156071987272350
+    second: "Plano t\xE9cnico del N\xFAcleo AION_210"
+  - first:
+      213: -1750298918942693861
+    second: "Plano t\xE9cnico del N\xFAcleo AION_211"
+  - first:
+      213: 8665481273134330981
+    second: "Plano t\xE9cnico del N\xFAcleo AION_212"
+  - first:
+      213: -6706128886790647031
+    second: "Plano t\xE9cnico del N\xFAcleo AION_213"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_0"
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 680
+        width: 360
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e74020561fa370800000000000000
+      internalID: 8335905968680853845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_1"
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 986
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e75af03f2e07240800000000000000
+      internalID: 4787575937462271496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_2"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 987
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016cb7a58abe6cf40800000000000000
+      internalID: 5748541082690110992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_3"
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 986
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5c1601ec8f2b070800000000000000
+      internalID: 8120826642024220141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_4"
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 986
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef14b44379af09e80800000000000000
+      internalID: -8173757796353097218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_5"
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 987
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83fbcb87f0d15330800000000000000
+      internalID: 3697966530668786573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_6"
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 986
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15665a07fa44a6880800000000000000
+      internalID: -8616999416720169391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_7"
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 986
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693842f3bb576af0800000000000000
+      internalID: -403252813204276896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_8"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 986
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641166461e0b1a140800000000000000
+      internalID: 4729255565814272326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_9"
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 987
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b557823c88ef48310800000000000000
+      internalID: 1406528846989653339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_10"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 970
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e0d35fb06652c40800000000000000
+      internalID: 5486903922565910040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_11"
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 967
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff8d96d2fe371d0800000000000000
+      internalID: -3354074319132491863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_12"
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 967
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f15373cd9ec5c990800000000000000
+      internalID: -7366254438510276108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_13"
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 967
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b58660316451040800000000000000
+      internalID: 4617674040464137083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_14"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 969
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b487fac5fcfc29c0800000000000000
+      internalID: -3950504640508361548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_15"
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 969
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9458e1d41faaf6e0800000000000000
+      internalID: -1802936196852591461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_16"
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 969
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ac22f1a046ce790800000000000000
+      internalID: -7499509284843894214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_17"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 949
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09984f8819c05cbc0800000000000000
+      internalID: -3763588094390662768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_18"
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 951
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8fb711c9c4b100800000000000000
+      internalID: 122944921010147033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_19"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 951
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca749e83c6754a40800000000000000
+      internalID: 5351814314482498244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_20"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 951
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3149cd61d2d4f1ea0800000000000000
+      internalID: -5899912130779638765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_21"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 951
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692a7eb6270d8b4b0800000000000000
+      internalID: -5424356561312570730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_22"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 951
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b7a270c0f4c630800000000000000
+      internalID: 3946543882831377941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_23"
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 951
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a271c58e0eedbcc20800000000000000
+      internalID: 3227918615493482282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_24"
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 951
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22705bc5d8d0ebe0800000000000000
+      internalID: -1449920667262619092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_25"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 241
+        width: 725
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d16d52beabe3430800000000000000
+      internalID: 3764651857643183501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_26"
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 832
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e2d428b1055b40800000000000000
+      internalID: 5428246816268413161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_27"
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 833
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8811459450dbf70800000000000000
+      internalID: 9204519025916348668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_28"
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 832
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491a45c721d94b0c0800000000000000
+      internalID: -4560847819898576492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_29"
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 833
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0971e7c0852c890800000000000000
+      internalID: -7439286823784312618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_30"
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 832
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f8bce244e60eaf0800000000000000
+      internalID: -369173930322456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_31"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 832
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f5dc0df01f3f40800000000000000
+      internalID: 5710301531557197380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_32"
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 832
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625521088bdee4ec0800000000000000
+      internalID: -3580663277034515162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_33"
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 833
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acddc9159f9acadb0800000000000000
+      internalID: -4779258216265753142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_34"
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 832
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ce038e82824ed40800000000000000
+      internalID: 5612655191769803827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_35"
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 832
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffbfcdc8ed4dab80800000000000000
+      internalID: -8381957669185929223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_36"
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 845
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb010bcfb6b3b00800000000000000
+      internalID: 809359291072954021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_37"
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 833
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5492060d5e343d540800000000000000
+      internalID: 5031439863025510725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_38"
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 832
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b741877a469bf6770800000000000000
+      internalID: 8606301254885839995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_39"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 811
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df40ece50c261bb0800000000000000
+      internalID: -4965733135168811047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_40"
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 813
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee266b3835a50bed0800000000000000
+      internalID: -2400319286649920786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_41"
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 813
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f4096a3edd240f0800000000000000
+      internalID: -1134100186322153678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_42"
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 813
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913fd432d1d04da80800000000000000
+      internalID: -8443108982615313639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_43"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 813
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd077cf006a25af60800000000000000
+      internalID: 8044882901437214940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_44"
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 813
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1225fdccfeee00800000000000000
+      internalID: 1076075322499275658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_45"
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 813
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9ee2c47a7664070800000000000000
+      internalID: 8090267748853017044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_46"
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 814
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c7dc484e0071c00800000000000000
+      internalID: 871166034400083058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_47"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 811
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff6479c8a11dec00800000000000000
+      internalID: 931420114567589887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_48"
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 795
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4362a6b01af5500800000000000000
+      internalID: 387205163374752940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_49"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 796
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8933b0382b91eb0800000000000000
+      internalID: -4748568056187086682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_50"
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 795
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e05e3a4d8423600800000000000000
+      internalID: 446499391183064595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_51"
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 795
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817d2419ab114ff0800000000000000
+      internalID: -53731307549789816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_52"
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 796
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7dd1b1201fae520800000000000000
+      internalID: 2732261115300796346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_53"
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 795
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f67a035906a5670800000000000000
+      internalID: 8528235038262128429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_54"
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 796
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56569b73231ac03f0800000000000000
+      internalID: -933193785717201563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_55"
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 795
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795c470cddc6406e0800000000000000
+      internalID: -1872251845406833257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_56"
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 795
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6800767c70ec540800000000000000
+      internalID: 5029966386827396846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_57"
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 796
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520c3aa1153231c40800000000000000
+      internalID: 5481764002686287909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_58"
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 795
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa00fc9463159280800000000000000
+      internalID: -9037295754398397712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_59"
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 795
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b245fc3f3b0610800000000000000
+      internalID: 1588432824623609878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_60"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 727
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644bb0b489b8b0d0800000000000000
+      internalID: -3406769138553895826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_61"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 727
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d045a294a32ab63c0800000000000000
+      internalID: -4365217042586250227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_62"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 727
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7043bf695faab5f60800000000000000
+      internalID: 8024195132867425287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_63"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 726
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668241c10ffa57e0800000000000000
+      internalID: -1775826720041826713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_64"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 723
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1eed16168a7b2f0800000000000000
+      internalID: -957111259585650256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_65"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 727
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ea647b63574b880800000000000000
+      internalID: -8596116910879887778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_66"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 726
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fa8a5c686ac0720800000000000000
+      internalID: 2813806964971712291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_67"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 726
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08ef184906c1410800000000000000
+      internalID: 1449139371058823410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_68"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 727
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b34e53b63ba1d0800000000000000
+      internalID: -3338514554756548376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_69"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 726
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65173ae46bdd51a30800000000000000
+      internalID: 4185495203783864662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_70"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 701
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1952c3ac447862490800000000000000
+      internalID: -7771375377460746863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_71"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 700
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e379edfebb4480800000000000000
+      internalID: -8913821039697074557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_72"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 700
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c96b90e05cfbe0800000000000000
+      internalID: -1442188855055105660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_73"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 701
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc17ac5d9060395a0800000000000000
+      internalID: -6515857596563689009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_74"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 700
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34118c3f66f4d6230800000000000000
+      internalID: 3633647777953091907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_75"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 701
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da13fa31524b49ab0800000000000000
+      internalID: -5002175214764740179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_76"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 700
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef718aac385167e0800000000000000
+      internalID: -1774039760625369110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_77"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 700
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa1b43fd23c8cf20800000000000000
+      internalID: 3443216517247474416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_78"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 700
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37a810e715d06960800000000000000
+      internalID: 7593303270267332412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_79"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 700
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30301bbb7a754b2c0800000000000000
+      internalID: -4416808956623518973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_80"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 701
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8830caeeb224e9c30800000000000000
+      internalID: 4368001445051237256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_81"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 700
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e6d4770ededd60800000000000000
+      internalID: 7917009318570289116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_82"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 698
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afb2f4bec61243b0800000000000000
+      internalID: -5529832315402666076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_83"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 700
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd07210ad8170bb0800000000000000
+      internalID: -4969976339178779188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_84"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 680
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c6d42d9d5394270800000000000000
+      internalID: 8235172603276127297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_85"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 682
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f2afc493604500800000000000000
+      internalID: 378411859488994561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_86"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 683
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb9675c26c3a910800000000000000
+      internalID: 1847538165899443698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_87"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 682
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6150b3a0a0533d0800000000000000
+      internalID: -3227662518884952347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_88"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 682
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4636cc17275260800000000000000
+      internalID: 7086175543228779363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_89"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 682
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e3569cfc89c07d0800000000000000
+      internalID: -2950815637630009777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_90"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 683
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b7731f3acd5d690800000000000000
+      internalID: -7577908201296266477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_91"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 682
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2180b2beb0abf0800000000000000
+      internalID: -315042299241222803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_92"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 682
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb1583d08b2ba30800000000000000
+      internalID: 4229645366973284202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_93"
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 668
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb6871ed203a0f0800000000000000
+      internalID: -1107037930502308179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_94"
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 667
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78106b0d7b0cd20800000000000000
+      internalID: 3296837034269837278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_95"
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15696459f51612400800000000000000
+      internalID: 297626113537381969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_96"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 667
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256db88919572b30800000000000000
+      internalID: 4262473538532631848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_97"
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a331a2c0a866b00800000000000000
+      internalID: 821495766891838020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_98"
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 667
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1474d29487bc1cc30800000000000000
+      internalID: 4378004030265050945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_99"
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 668
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef04a449cff3fb0800000000000000
+      internalID: -4665732975101411780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_100"
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 668
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d1a76135c7867f0800000000000000
+      internalID: -619108252462211698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_101"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 667
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78bc51fac5bae60800000000000000
+      internalID: 7974569472244287413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_102"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 667
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d64e03dae4c0250800000000000000
+      internalID: 5912186916587203948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_103"
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 667
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66213c027397fea10800000000000000
+      internalID: 1940903242099790438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_104"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 668
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580a27e5017f9cb0800000000000000
+      internalID: -4855037603115038625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_105"
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 668
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d215ace469f135f0800000000000000
+      internalID: -778567048696098093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_106"
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 667
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc4f7bdf4d0bca0800000000000000
+      internalID: -6003064117106783328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_107"
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 643
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff1448d41cd0ad0800000000000000
+      internalID: -2734316860068462824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_108"
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 642
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e1de396ff7b460800000000000000
+      internalID: 7257550152021436649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_109"
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 642
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede432b6eacea0c0800000000000000
+      internalID: -4562486280298631697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_110"
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 640
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a63ae062cc5689c0800000000000000
+      internalID: -3925348035287435610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_111"
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 642
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e744ac61e4f84500800000000000000
+      internalID: 380823417540331489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_112"
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 642
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c8c5012552a1f0800000000000000
+      internalID: -1035171364022468186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_113"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 642
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c0bad7bb9b2ac0800000000000000
+      internalID: -3878835440099210866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_114"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 642
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127210f84f5121160800000000000000
+      internalID: 6994677311375222561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_115"
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 640
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e900bd80afc449d0800000000000000
+      internalID: -2790877580584023584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_116"
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 642
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573b4ea388ddd720800000000000000
+      internalID: 2872690197408724820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_117"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 642
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20a1d788c68f290800000000000000
+      internalID: -7856410216477621519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_118"
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 642
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f791c5d32f32980800000000000000
+      internalID: -8564735720976449708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_119"
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 640
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121fbdecdc27aec0800000000000000
+      internalID: -3555824053392567790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_120"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 642
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6fdd0ed81b1fcd0800000000000000
+      internalID: -2526042693056989521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_121"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 106
+        width: 273
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6358ca005d33b0800000000000000
+      internalID: -5531176760100295861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_122"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 512
+        width: 6
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07734787f6c44a0800000000000000
+      internalID: -6607783990122811154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_123"
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 509
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b94a2a2f953670800000000000000
+      internalID: 8517889273688076858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_124"
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 510
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2fd9a5b34031d0800000000000000
+      internalID: -3373121673382383810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_125"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 453
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7917f74a079a9dee0800000000000000
+      internalID: -1235770321475243625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_126"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 456
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0907f863b14a0b0800000000000000
+      internalID: -5718415705704984347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_127"
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 457
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad96e3e79e1002670800000000000000
+      internalID: 8511805398087264730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_128"
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 456
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df5a13a3b9b7b10800000000000000
+      internalID: 1980347135402835311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_129"
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 457
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bfdb23f28ed4f70800000000000000
+      internalID: 9173243305435986787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_130"
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 456
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0df76188c726ca0800000000000000
+      internalID: -6025116427533430567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_131"
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 456
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d9e2c8abd161b0800000000000000
+      internalID: -5665005338384280634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_132"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 432
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f43168309c6e050800000000000000
+      internalID: 5829567784649183133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_133"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 432
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ece5af6bd08f8980800000000000000
+      internalID: -8534461088884462364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_134"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d93aa48b8be2c40800000000000000
+      internalID: 5489528097476943257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_135"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 432
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d1863d7af75da0800000000000000
+      internalID: -5956016566481856967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_136"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a5275505bdad50800000000000000
+      internalID: 6750250451039790083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_137"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683489fb633a80750800000000000000
+      internalID: 6271441936651404166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_138"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 432
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebf63807d3b8420800000000000000
+      internalID: 2633265960578956830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_139"
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 438
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c1b99c4ed80890800000000000000
+      internalID: -7491493559553373783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_140"
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 438
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd71045c3eb1443d0800000000000000
+      internalID: -3223420768209594404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_141"
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 437
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6cb87454fdc5f0800000000000000
+      internalID: -734662520551477253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_142"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 437
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e94e0e6f7a09630800000000000000
+      internalID: 3931827153471315611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_143"
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 437
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3335604359af9780800000000000000
+      internalID: -8674028182264532166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_144"
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 438
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d130b950ea2faf90800000000000000
+      internalID: -6940281357688884784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_145"
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 438
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc95086812edc30800000000000000
+      internalID: 4385979948668144588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_146"
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 437
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367dbc14fcf612290800000000000000
+      internalID: -7916923733987829917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_147"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 437
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77da7322fb4f7ab0800000000000000
+      internalID: -5008200757263280258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_148"
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 437
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcc300f09d6f3410800000000000000
+      internalID: 1459005273560829116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_149"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 437
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c9bf4b6c0a1e30800000000000000
+      internalID: 4474902834784617795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_150"
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 434
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c89fb7e959e5ea0800000000000000
+      internalID: -5882099555381965733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_151"
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 437
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd80dfe7d0cc680800000000000000
+      internalID: -8733590738315976810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_152"
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 437
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6e6ee1442cf1c50800000000000000
+      internalID: 6638237973599413955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_153"
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 438
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6bf27b02c7dca0800000000000000
+      internalID: -5992107424763647415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_154"
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 438
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b49e1a265275430800000000000000
+      internalID: 3771524318499523378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_155"
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 436
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469666c54230ad360800000000000000
+      internalID: 7195066809381710180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_156"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 438
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc1fa0525e118850800000000000000
+      internalID: 6377411886223137983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_157"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 414
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf085ca512468220800000000000000
+      internalID: 2487748505021976510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_158"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 414
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f0c27b46a2aa1a0800000000000000
+      internalID: -6797574075504128128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_159"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cdc0ea1602e2ce0800000000000000
+      internalID: -1428168427925873540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_160"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 414
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112be14ef636ab70800000000000000
+      internalID: 8909869378454626582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_161"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 419
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ad51694cfb0400800000000000000
+      internalID: 291603992991867471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_162"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 419
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31600119ff05122f0800000000000000
+      internalID: -999428583718910445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_163"
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 420
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d16b99aecc2a70800000000000000
+      internalID: 8803638599454150705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_164"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 419
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c22fd27cc6bd480800000000000000
+      internalID: -8873379038078292906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_165"
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 419
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfe4af8bb762de70800000000000000
+      internalID: 9138480649154654164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_166"
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 419
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4310fccc91d76d0800000000000000
+      internalID: -2991206210067155765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_167"
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 419
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4a292c68d1e9a0800000000000000
+      internalID: -6205440852481127661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_168"
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 419
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca463f0bb10be50800000000000000
+      internalID: 6822983882277956704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_169"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 394
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8d8bc9503ae8b70800000000000000
+      internalID: 8903232757857573096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_170"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 396
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dbbde8e7da0a9a0800000000000000
+      internalID: -6223783925951775409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_171"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 394
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01154cdd5af1d8b40800000000000000
+      internalID: 5444042321811493136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_172"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 399
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2668f1a86a90b900800000000000000
+      internalID: 698227716427114026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_173"
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 399
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154209c0d980f7b0800000000000000
+      internalID: -5192498840539609829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_174"
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 402
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe575d46c139970800000000000000
+      internalID: 8760376919569330068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_175"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 401
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4df3f815b784f8e0800000000000000
+      internalID: -1660553150715396787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_176"
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 402
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef13bf4ce7022960800000000000000
+      internalID: 7575626234721411044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_177"
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 401
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beacfabef29c88d0800000000000000
+      internalID: -2842735642021155151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_178"
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 401
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd35f4d233c620730800000000000000
+      internalID: 3963849589098763229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_179"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 401
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea5e98293f9c090800000000000000
+      internalID: -8013606251224781150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_180"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 402
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501519984dd3ff3f0800000000000000
+      internalID: -864904620381482747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_181"
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 401
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137a86f992128f90800000000000000
+      internalID: -6952974422231059689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_182"
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 402
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac1396085a60c30800000000000000
+      internalID: 4325326463075207881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_183"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 383
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619012a62948ecb30800000000000000
+      internalID: 4309527657820784918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_184"
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 384
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645ad9c0aa1f9640800000000000000
+      internalID: 5088815381835568225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_185"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 383
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef9c69e7d4ca350800000000000000
+      internalID: 6029279207233289947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_186"
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 381
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a230a7838a6b7a550800000000000000
+      internalID: 6172102647952835370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_187"
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 383
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb44af480a529ea0800000000000000
+      internalID: -5867528372767929424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_188"
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 383
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe263c8e7864c58a0800000000000000
+      internalID: -6315095027940629777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_189"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 383
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40151cc514a206180800000000000000
+      internalID: -9124246384835211004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_190"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 383
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64537fa907fdde10800000000000000
+      internalID: 2224205411961230442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_191"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 383
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb69e7948195bed0800000000000000
+      internalID: -2398851227834553372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_192"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 383
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d6f2c7764ca3200800000000000000
+      internalID: 160656685469232394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_193"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 384
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55326c4f7abe8f8a0800000000000000
+      internalID: -6271003374514724011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_194"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 383
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbc14de7f0a5e4b0800000000000000
+      internalID: -5411742390517904437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_195"
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 236
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f403de0b63563c60800000000000000
+      internalID: 7797511524113908980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_196"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 236
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6c0e71b14fdff0800000000000000
+      internalID: -9216443651691737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_197"
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 236
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01beadeea3d98a210800000000000000
+      internalID: 1344497365211081488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_198"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 73
+        width: 386
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c53c9099cfb68b0800000000000000
+      internalID: -5157751213998777260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_199"
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 80
+        width: 86
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14421223a107f4ac0800000000000000
+      internalID: -3868750297075473343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_200"
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 66
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281b37ccd4c4b280800000000000000
+      internalID: -9028374900456613851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_201"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 121
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a73b364fc1e6620800000000000000
+      internalID: 2769182656849738277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_202"
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 115
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a57a7ee94ef3f0800000000000000
+      internalID: -865172789802981090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_203"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 115
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53df5ed89144d140800000000000000
+      internalID: 4743488432349631324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_204"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 112
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7bcdc88b1224e30800000000000000
+      internalID: 4486185255335409626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_205"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 114
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f00b31e2dee4630800000000000000
+      internalID: 3913325908386123672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_206"
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 114
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc6aab78fe7ae270800000000000000
+      internalID: 8280570470565833969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_207"
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 115
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6e8a7c277895b00800000000000000
+      internalID: 817833734390212302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_208"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 114
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2dfd1eed1e035d0800000000000000
+      internalID: -3084717397360258352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_209"
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 114
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e265cc82565cc75d0800000000000000
+      internalID: -3063356608251931090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_210"
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 20
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265292df16ffb1ee0800000000000000
+      internalID: -1289156071987272350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_211"
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 21
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16abad1860b5b7e0800000000000000
+      internalID: -1750298918942693861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_212"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 20
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564b8f46e49f14870800000000000000
+      internalID: 8665481273134330981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plano t\xE9cnico del N\xFAcleo AION_213"
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 20
+        width: 221
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039bdcde4b0fe2a0800000000000000
+      internalID: -6706128886790647031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Plano t\xE9cnico del N\xFAcleo AION_0": 8335905968680853845
+      "Plano t\xE9cnico del N\xFAcleo AION_1": 4787575937462271496
+      "Plano t\xE9cnico del N\xFAcleo AION_10": 5486903922565910040
+      "Plano t\xE9cnico del N\xFAcleo AION_100": -619108252462211698
+      "Plano t\xE9cnico del N\xFAcleo AION_101": 7974569472244287413
+      "Plano t\xE9cnico del N\xFAcleo AION_102": 5912186916587203948
+      "Plano t\xE9cnico del N\xFAcleo AION_103": 1940903242099790438
+      "Plano t\xE9cnico del N\xFAcleo AION_104": -4855037603115038625
+      "Plano t\xE9cnico del N\xFAcleo AION_105": -778567048696098093
+      "Plano t\xE9cnico del N\xFAcleo AION_106": -6003064117106783328
+      "Plano t\xE9cnico del N\xFAcleo AION_107": -2734316860068462824
+      "Plano t\xE9cnico del N\xFAcleo AION_108": 7257550152021436649
+      "Plano t\xE9cnico del N\xFAcleo AION_109": -4562486280298631697
+      "Plano t\xE9cnico del N\xFAcleo AION_11": -3354074319132491863
+      "Plano t\xE9cnico del N\xFAcleo AION_110": -3925348035287435610
+      "Plano t\xE9cnico del N\xFAcleo AION_111": 380823417540331489
+      "Plano t\xE9cnico del N\xFAcleo AION_112": -1035171364022468186
+      "Plano t\xE9cnico del N\xFAcleo AION_113": -3878835440099210866
+      "Plano t\xE9cnico del N\xFAcleo AION_114": 6994677311375222561
+      "Plano t\xE9cnico del N\xFAcleo AION_115": -2790877580584023584
+      "Plano t\xE9cnico del N\xFAcleo AION_116": 2872690197408724820
+      "Plano t\xE9cnico del N\xFAcleo AION_117": -7856410216477621519
+      "Plano t\xE9cnico del N\xFAcleo AION_118": -8564735720976449708
+      "Plano t\xE9cnico del N\xFAcleo AION_119": -3555824053392567790
+      "Plano t\xE9cnico del N\xFAcleo AION_12": -7366254438510276108
+      "Plano t\xE9cnico del N\xFAcleo AION_120": -2526042693056989521
+      "Plano t\xE9cnico del N\xFAcleo AION_121": -5531176760100295861
+      "Plano t\xE9cnico del N\xFAcleo AION_122": -6607783990122811154
+      "Plano t\xE9cnico del N\xFAcleo AION_123": 8517889273688076858
+      "Plano t\xE9cnico del N\xFAcleo AION_124": -3373121673382383810
+      "Plano t\xE9cnico del N\xFAcleo AION_125": -1235770321475243625
+      "Plano t\xE9cnico del N\xFAcleo AION_126": -5718415705704984347
+      "Plano t\xE9cnico del N\xFAcleo AION_127": 8511805398087264730
+      "Plano t\xE9cnico del N\xFAcleo AION_128": 1980347135402835311
+      "Plano t\xE9cnico del N\xFAcleo AION_129": 9173243305435986787
+      "Plano t\xE9cnico del N\xFAcleo AION_13": 4617674040464137083
+      "Plano t\xE9cnico del N\xFAcleo AION_130": -6025116427533430567
+      "Plano t\xE9cnico del N\xFAcleo AION_131": -5665005338384280634
+      "Plano t\xE9cnico del N\xFAcleo AION_132": 5829567784649183133
+      "Plano t\xE9cnico del N\xFAcleo AION_133": -8534461088884462364
+      "Plano t\xE9cnico del N\xFAcleo AION_134": 5489528097476943257
+      "Plano t\xE9cnico del N\xFAcleo AION_135": -5956016566481856967
+      "Plano t\xE9cnico del N\xFAcleo AION_136": 6750250451039790083
+      "Plano t\xE9cnico del N\xFAcleo AION_137": 6271441936651404166
+      "Plano t\xE9cnico del N\xFAcleo AION_138": 2633265960578956830
+      "Plano t\xE9cnico del N\xFAcleo AION_139": -7491493559553373783
+      "Plano t\xE9cnico del N\xFAcleo AION_14": -3950504640508361548
+      "Plano t\xE9cnico del N\xFAcleo AION_140": -3223420768209594404
+      "Plano t\xE9cnico del N\xFAcleo AION_141": -734662520551477253
+      "Plano t\xE9cnico del N\xFAcleo AION_142": 3931827153471315611
+      "Plano t\xE9cnico del N\xFAcleo AION_143": -8674028182264532166
+      "Plano t\xE9cnico del N\xFAcleo AION_144": -6940281357688884784
+      "Plano t\xE9cnico del N\xFAcleo AION_145": 4385979948668144588
+      "Plano t\xE9cnico del N\xFAcleo AION_146": -7916923733987829917
+      "Plano t\xE9cnico del N\xFAcleo AION_147": -5008200757263280258
+      "Plano t\xE9cnico del N\xFAcleo AION_148": 1459005273560829116
+      "Plano t\xE9cnico del N\xFAcleo AION_149": 4474902834784617795
+      "Plano t\xE9cnico del N\xFAcleo AION_15": -1802936196852591461
+      "Plano t\xE9cnico del N\xFAcleo AION_150": -5882099555381965733
+      "Plano t\xE9cnico del N\xFAcleo AION_151": -8733590738315976810
+      "Plano t\xE9cnico del N\xFAcleo AION_152": 6638237973599413955
+      "Plano t\xE9cnico del N\xFAcleo AION_153": -5992107424763647415
+      "Plano t\xE9cnico del N\xFAcleo AION_154": 3771524318499523378
+      "Plano t\xE9cnico del N\xFAcleo AION_155": 7195066809381710180
+      "Plano t\xE9cnico del N\xFAcleo AION_156": 6377411886223137983
+      "Plano t\xE9cnico del N\xFAcleo AION_157": 2487748505021976510
+      "Plano t\xE9cnico del N\xFAcleo AION_158": -6797574075504128128
+      "Plano t\xE9cnico del N\xFAcleo AION_159": -1428168427925873540
+      "Plano t\xE9cnico del N\xFAcleo AION_16": -7499509284843894214
+      "Plano t\xE9cnico del N\xFAcleo AION_160": 8909869378454626582
+      "Plano t\xE9cnico del N\xFAcleo AION_161": 291603992991867471
+      "Plano t\xE9cnico del N\xFAcleo AION_162": -999428583718910445
+      "Plano t\xE9cnico del N\xFAcleo AION_163": 8803638599454150705
+      "Plano t\xE9cnico del N\xFAcleo AION_164": -8873379038078292906
+      "Plano t\xE9cnico del N\xFAcleo AION_165": 9138480649154654164
+      "Plano t\xE9cnico del N\xFAcleo AION_166": -2991206210067155765
+      "Plano t\xE9cnico del N\xFAcleo AION_167": -6205440852481127661
+      "Plano t\xE9cnico del N\xFAcleo AION_168": 6822983882277956704
+      "Plano t\xE9cnico del N\xFAcleo AION_169": 8903232757857573096
+      "Plano t\xE9cnico del N\xFAcleo AION_17": -3763588094390662768
+      "Plano t\xE9cnico del N\xFAcleo AION_170": -6223783925951775409
+      "Plano t\xE9cnico del N\xFAcleo AION_171": 5444042321811493136
+      "Plano t\xE9cnico del N\xFAcleo AION_172": 698227716427114026
+      "Plano t\xE9cnico del N\xFAcleo AION_173": -5192498840539609829
+      "Plano t\xE9cnico del N\xFAcleo AION_174": 8760376919569330068
+      "Plano t\xE9cnico del N\xFAcleo AION_175": -1660553150715396787
+      "Plano t\xE9cnico del N\xFAcleo AION_176": 7575626234721411044
+      "Plano t\xE9cnico del N\xFAcleo AION_177": -2842735642021155151
+      "Plano t\xE9cnico del N\xFAcleo AION_178": 3963849589098763229
+      "Plano t\xE9cnico del N\xFAcleo AION_179": -8013606251224781150
+      "Plano t\xE9cnico del N\xFAcleo AION_18": 122944921010147033
+      "Plano t\xE9cnico del N\xFAcleo AION_180": -864904620381482747
+      "Plano t\xE9cnico del N\xFAcleo AION_181": -6952974422231059689
+      "Plano t\xE9cnico del N\xFAcleo AION_182": 4325326463075207881
+      "Plano t\xE9cnico del N\xFAcleo AION_183": 4309527657820784918
+      "Plano t\xE9cnico del N\xFAcleo AION_184": 5088815381835568225
+      "Plano t\xE9cnico del N\xFAcleo AION_185": 6029279207233289947
+      "Plano t\xE9cnico del N\xFAcleo AION_186": 6172102647952835370
+      "Plano t\xE9cnico del N\xFAcleo AION_187": -5867528372767929424
+      "Plano t\xE9cnico del N\xFAcleo AION_188": -6315095027940629777
+      "Plano t\xE9cnico del N\xFAcleo AION_189": -9124246384835211004
+      "Plano t\xE9cnico del N\xFAcleo AION_19": 5351814314482498244
+      "Plano t\xE9cnico del N\xFAcleo AION_190": 2224205411961230442
+      "Plano t\xE9cnico del N\xFAcleo AION_191": -2398851227834553372
+      "Plano t\xE9cnico del N\xFAcleo AION_192": 160656685469232394
+      "Plano t\xE9cnico del N\xFAcleo AION_193": -6271003374514724011
+      "Plano t\xE9cnico del N\xFAcleo AION_194": -5411742390517904437
+      "Plano t\xE9cnico del N\xFAcleo AION_195": 7797511524113908980
+      "Plano t\xE9cnico del N\xFAcleo AION_196": -9216443651691737
+      "Plano t\xE9cnico del N\xFAcleo AION_197": 1344497365211081488
+      "Plano t\xE9cnico del N\xFAcleo AION_198": -5157751213998777260
+      "Plano t\xE9cnico del N\xFAcleo AION_199": -3868750297075473343
+      "Plano t\xE9cnico del N\xFAcleo AION_2": 5748541082690110992
+      "Plano t\xE9cnico del N\xFAcleo AION_20": -5899912130779638765
+      "Plano t\xE9cnico del N\xFAcleo AION_200": -9028374900456613851
+      "Plano t\xE9cnico del N\xFAcleo AION_201": 2769182656849738277
+      "Plano t\xE9cnico del N\xFAcleo AION_202": -865172789802981090
+      "Plano t\xE9cnico del N\xFAcleo AION_203": 4743488432349631324
+      "Plano t\xE9cnico del N\xFAcleo AION_204": 4486185255335409626
+      "Plano t\xE9cnico del N\xFAcleo AION_205": 3913325908386123672
+      "Plano t\xE9cnico del N\xFAcleo AION_206": 8280570470565833969
+      "Plano t\xE9cnico del N\xFAcleo AION_207": 817833734390212302
+      "Plano t\xE9cnico del N\xFAcleo AION_208": -3084717397360258352
+      "Plano t\xE9cnico del N\xFAcleo AION_209": -3063356608251931090
+      "Plano t\xE9cnico del N\xFAcleo AION_21": -5424356561312570730
+      "Plano t\xE9cnico del N\xFAcleo AION_210": -1289156071987272350
+      "Plano t\xE9cnico del N\xFAcleo AION_211": -1750298918942693861
+      "Plano t\xE9cnico del N\xFAcleo AION_212": 8665481273134330981
+      "Plano t\xE9cnico del N\xFAcleo AION_213": -6706128886790647031
+      "Plano t\xE9cnico del N\xFAcleo AION_22": 3946543882831377941
+      "Plano t\xE9cnico del N\xFAcleo AION_23": 3227918615493482282
+      "Plano t\xE9cnico del N\xFAcleo AION_24": -1449920667262619092
+      "Plano t\xE9cnico del N\xFAcleo AION_25": 3764651857643183501
+      "Plano t\xE9cnico del N\xFAcleo AION_26": 5428246816268413161
+      "Plano t\xE9cnico del N\xFAcleo AION_27": 9204519025916348668
+      "Plano t\xE9cnico del N\xFAcleo AION_28": -4560847819898576492
+      "Plano t\xE9cnico del N\xFAcleo AION_29": -7439286823784312618
+      "Plano t\xE9cnico del N\xFAcleo AION_3": 8120826642024220141
+      "Plano t\xE9cnico del N\xFAcleo AION_30": -369173930322456775
+      "Plano t\xE9cnico del N\xFAcleo AION_31": 5710301531557197380
+      "Plano t\xE9cnico del N\xFAcleo AION_32": -3580663277034515162
+      "Plano t\xE9cnico del N\xFAcleo AION_33": -4779258216265753142
+      "Plano t\xE9cnico del N\xFAcleo AION_34": 5612655191769803827
+      "Plano t\xE9cnico del N\xFAcleo AION_35": -8381957669185929223
+      "Plano t\xE9cnico del N\xFAcleo AION_36": 809359291072954021
+      "Plano t\xE9cnico del N\xFAcleo AION_37": 5031439863025510725
+      "Plano t\xE9cnico del N\xFAcleo AION_38": 8606301254885839995
+      "Plano t\xE9cnico del N\xFAcleo AION_39": -4965733135168811047
+      "Plano t\xE9cnico del N\xFAcleo AION_4": -8173757796353097218
+      "Plano t\xE9cnico del N\xFAcleo AION_40": -2400319286649920786
+      "Plano t\xE9cnico del N\xFAcleo AION_41": -1134100186322153678
+      "Plano t\xE9cnico del N\xFAcleo AION_42": -8443108982615313639
+      "Plano t\xE9cnico del N\xFAcleo AION_43": 8044882901437214940
+      "Plano t\xE9cnico del N\xFAcleo AION_44": 1076075322499275658
+      "Plano t\xE9cnico del N\xFAcleo AION_45": 8090267748853017044
+      "Plano t\xE9cnico del N\xFAcleo AION_46": 871166034400083058
+      "Plano t\xE9cnico del N\xFAcleo AION_47": 931420114567589887
+      "Plano t\xE9cnico del N\xFAcleo AION_48": 387205163374752940
+      "Plano t\xE9cnico del N\xFAcleo AION_49": -4748568056187086682
+      "Plano t\xE9cnico del N\xFAcleo AION_5": 3697966530668786573
+      "Plano t\xE9cnico del N\xFAcleo AION_50": 446499391183064595
+      "Plano t\xE9cnico del N\xFAcleo AION_51": -53731307549789816
+      "Plano t\xE9cnico del N\xFAcleo AION_52": 2732261115300796346
+      "Plano t\xE9cnico del N\xFAcleo AION_53": 8528235038262128429
+      "Plano t\xE9cnico del N\xFAcleo AION_54": -933193785717201563
+      "Plano t\xE9cnico del N\xFAcleo AION_55": -1872251845406833257
+      "Plano t\xE9cnico del N\xFAcleo AION_56": 5029966386827396846
+      "Plano t\xE9cnico del N\xFAcleo AION_57": 5481764002686287909
+      "Plano t\xE9cnico del N\xFAcleo AION_58": -9037295754398397712
+      "Plano t\xE9cnico del N\xFAcleo AION_59": 1588432824623609878
+      "Plano t\xE9cnico del N\xFAcleo AION_6": -8616999416720169391
+      "Plano t\xE9cnico del N\xFAcleo AION_60": -3406769138553895826
+      "Plano t\xE9cnico del N\xFAcleo AION_61": -4365217042586250227
+      "Plano t\xE9cnico del N\xFAcleo AION_62": 8024195132867425287
+      "Plano t\xE9cnico del N\xFAcleo AION_63": -1775826720041826713
+      "Plano t\xE9cnico del N\xFAcleo AION_64": -957111259585650256
+      "Plano t\xE9cnico del N\xFAcleo AION_65": -8596116910879887778
+      "Plano t\xE9cnico del N\xFAcleo AION_66": 2813806964971712291
+      "Plano t\xE9cnico del N\xFAcleo AION_67": 1449139371058823410
+      "Plano t\xE9cnico del N\xFAcleo AION_68": -3338514554756548376
+      "Plano t\xE9cnico del N\xFAcleo AION_69": 4185495203783864662
+      "Plano t\xE9cnico del N\xFAcleo AION_7": -403252813204276896
+      "Plano t\xE9cnico del N\xFAcleo AION_70": -7771375377460746863
+      "Plano t\xE9cnico del N\xFAcleo AION_71": -8913821039697074557
+      "Plano t\xE9cnico del N\xFAcleo AION_72": -1442188855055105660
+      "Plano t\xE9cnico del N\xFAcleo AION_73": -6515857596563689009
+      "Plano t\xE9cnico del N\xFAcleo AION_74": 3633647777953091907
+      "Plano t\xE9cnico del N\xFAcleo AION_75": -5002175214764740179
+      "Plano t\xE9cnico del N\xFAcleo AION_76": -1774039760625369110
+      "Plano t\xE9cnico del N\xFAcleo AION_77": 3443216517247474416
+      "Plano t\xE9cnico del N\xFAcleo AION_78": 7593303270267332412
+      "Plano t\xE9cnico del N\xFAcleo AION_79": -4416808956623518973
+      "Plano t\xE9cnico del N\xFAcleo AION_8": 4729255565814272326
+      "Plano t\xE9cnico del N\xFAcleo AION_80": 4368001445051237256
+      "Plano t\xE9cnico del N\xFAcleo AION_81": 7917009318570289116
+      "Plano t\xE9cnico del N\xFAcleo AION_82": -5529832315402666076
+      "Plano t\xE9cnico del N\xFAcleo AION_83": -4969976339178779188
+      "Plano t\xE9cnico del N\xFAcleo AION_84": 8235172603276127297
+      "Plano t\xE9cnico del N\xFAcleo AION_85": 378411859488994561
+      "Plano t\xE9cnico del N\xFAcleo AION_86": 1847538165899443698
+      "Plano t\xE9cnico del N\xFAcleo AION_87": -3227662518884952347
+      "Plano t\xE9cnico del N\xFAcleo AION_88": 7086175543228779363
+      "Plano t\xE9cnico del N\xFAcleo AION_89": -2950815637630009777
+      "Plano t\xE9cnico del N\xFAcleo AION_9": 1406528846989653339
+      "Plano t\xE9cnico del N\xFAcleo AION_90": -7577908201296266477
+      "Plano t\xE9cnico del N\xFAcleo AION_91": -315042299241222803
+      "Plano t\xE9cnico del N\xFAcleo AION_92": 4229645366973284202
+      "Plano t\xE9cnico del N\xFAcleo AION_93": -1107037930502308179
+      "Plano t\xE9cnico del N\xFAcleo AION_94": 3296837034269837278
+      "Plano t\xE9cnico del N\xFAcleo AION_95": 297626113537381969
+      "Plano t\xE9cnico del N\xFAcleo AION_96": 4262473538532631848
+      "Plano t\xE9cnico del N\xFAcleo AION_97": 821495766891838020
+      "Plano t\xE9cnico del N\xFAcleo AION_98": 4378004030265050945
+      "Plano t\xE9cnico del N\xFAcleo AION_99": -4665732975101411780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
